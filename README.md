@@ -9,10 +9,12 @@ A Colorado Board of Elections employee gave the following tasks to complete the 
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
+- https://github.com/mcarson16/Election_Analysis/blob/main/Resources.zip
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code, GitBash
 
 ## Election-Audit Results
+- https://github.com/mcarson16/Election_Analysis/blob/main/analysis.zip
 - There were 369,711 votes cast in the election.
 - County Votes break down as follows:
     - Jefferson contributed 38,855 votes, 10.5% of the total vote.
